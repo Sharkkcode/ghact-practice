@@ -1,1 +1,1 @@
-![](https://github.com/<user>/<repo>/actions/workflows/<yaml-file>/badge.svg)
+![](https://github.com/Sharkkcode/ghact-practice/actions/workflows/github-actions-demo.yml/badge.svg)
